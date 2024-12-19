@@ -1,0 +1,39 @@
+.card{
+    border: 1px solid black; 
+    border-radius: 10px;
+    height: auto;
+    width: 300px;
+    padding: 20px;
+    margin: 10px;
+}
+
+.card img{
+    width: 100%;
+    border-radius: 20px;
+
+}
+
+.first{
+    font-size: large;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.second{
+font-weight: bold;
+color: brown;
+}
+
+.card button{
+    width: 100%;
+}
+
+.icon-container{
+   align-items: center;
+   justify-content: space-around;
+   color: goldenrod;
+   font-size: 20px;
+   padding-left: 100px;
+}

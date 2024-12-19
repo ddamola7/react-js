@@ -1,0 +1,48 @@
+nav{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: aquamarine;
+    height: 80px;
+    text-decoration: underline;
+}
+
+input{
+    border: none;
+    padding: 10px;
+}
+
+.search-container{
+    background-color: white;
+    padding: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 5px;
+
+}
+
+input:active{
+    border: none;
+    outline: 0;
+}
+
+button{
+    padding: 5px;
+   margin: 2px;
+   color: whitesmoke;
+   background-color: green;
+   text-decoration: whitesmoke;
+   border-radius: 5px;
+   font-size: large;
+   border: none;
+}
+button:hover{
+    color: yellowgreen;
+}
+
+a{
+    margin-right: 5px;
+    text-decoration: none;
+}
